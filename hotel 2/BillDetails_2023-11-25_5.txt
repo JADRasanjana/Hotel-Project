@@ -1,0 +1,9 @@
+Payment Details
+Booking ID: 5
+Amount: 1
+Additional Charges: 1
+Taxes: 1
+Total Amount: 3.00
+Payment Date: 2023-10-31
+Payment Method: Credit Card
+Status: Paid

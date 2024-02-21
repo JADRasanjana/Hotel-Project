@@ -1,0 +1,9 @@
+Payment Details
+Booking ID: 1
+Amount: 4
+Additional Charges: 1
+Taxes: 2
+Total Amount: 7.00
+Payment Date: 2023-10-29
+Payment Method: Cash
+Status: Pending
